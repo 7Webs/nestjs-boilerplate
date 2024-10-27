@@ -30,6 +30,7 @@ $ yarn
 ```
 
 2. Add Following .env file to get started:
+
 ```
 DB_HOST=localhost
 DB_PORT=5432
@@ -37,7 +38,14 @@ DB_USERNAME=postgres
 DB_PASSWORD=root
 DB_NAME=social-chat
 SWAGGER_USER=swaggerUser
-SWAGGER_PASSWORD=swaggerPassword
+SWAGGER_PASSWORD=super@20024
+
+GOOGLE_PROJECT_ID=firebase-proj-id
+GOOGLE_CLIENT_EMAIL=firebase-admin-sdk-client-email@email
+GOOGLE_PRIVATE_KEY_ID=pravate-key-id
+FIREBASE_STORAGE_BUCKET=firebase-proj-id.appspot.com
+GOOGLE_PRIVATE_KEY=-----BEGIN PRIVATE KEY-----\nprivatekey-for-firebase-admin-it-is-used-to-authenticate-admin\n-----END PRIVATE KEY-----\n
+
 ```
 
 ## Running the app
