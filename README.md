@@ -1,7 +1,3 @@
-Here's a detailed README update covering the purpose of each package used in the setup, as well as guidance on how to update npm packages in the future.
-
----
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://7webs.co.in/assets/images/logos/logo_main.png" height="300" alt="Nest Logo" /></a>
 </p>
